@@ -6,4 +6,6 @@
 - Chess
 - Past Market Analyzer
 - Zero Knowledge Proof
-- 2 dimensional game
+- 2D game
+
+
