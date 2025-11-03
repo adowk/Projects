@@ -1,10 +1,10 @@
 # Projects
 
-- Gravity Simulator between planets, sun and asteroid. Solar System Simulator
-- Monitoring Agent / Security Daemon
+- Solar System Simulator (py)
+- Monitoring Agent (bash/rust/py)
 - Ping Pong (py/rust)
 - Chess
-- Past Market Analyzer
+- Past Market Analyzer (py)
 - Zero Knowledge Proof
 - 2D game
 
